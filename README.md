@@ -10,4 +10,4 @@ Using Google OpenImages V7 is easy. First, you need to download the dataset from
 ### **View the set of boxable classes as a hierarchy**
 https://storage.googleapis.com/openimages/2018_04/bbox_labels_600_hierarchy_visualizer/circle.html
 
-![alt text](Images/v2-bbox_labels_vis_screenshot.png)
+![alt text](Images/OpenImagesV4Hierarchy.180501.png)
